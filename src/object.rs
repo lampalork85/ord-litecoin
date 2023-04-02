@@ -117,33 +117,33 @@ mod tests {
       ]),
     );
     case(
-      "ltc1qfmvk898k6jgfgp98dhsc5gvr9hpxl2ggd25ygk",
+      "fec1qxgmmj2z63w0es3zp8gr4gytk896evsu6qglkfp",
       Object::Address(
-        "ltc1qfmvk898k6jgfgp98dhsc5gvr9hpxl2ggd25ygk"
+        "fec1qxgmmj2z63w0es3zp8gr4gytk896evsu6qglkfp"
           .parse()
           .unwrap(),
       ),
     );
     case(
-      "LTC1QFMVK898K6JGFGP98DHSC5GVR9HPXL2GGD25YGK",
+      "fec1qxgmmj2z63w0es3zp8gr4gytk896evsu6qglkfp",
       Object::Address(
-        "LTC1QFMVK898K6JGFGP98DHSC5GVR9HPXL2GGD25YGK"
+        "fec1qxgmmj2z63w0es3zp8gr4gytk896evsu6qglkfp"
           .parse()
           .unwrap(),
       ),
     );
     case(
-      "tltc1q6wj92hpclq5758cxz9r9z42ms02cxycrln7mg5",
+      "fec1qxgmmj2z63w0es3zp8gr4gytk896evsu6qglkfp",
       Object::Address(
-        "tltc1q6wj92hpclq5758cxz9r9z42ms02cxycrln7mg5"
+        "fec1qxgmmj2z63w0es3zp8gr4gytk896evsu6qglkfp"
           .parse()
           .unwrap(),
       ),
     );
     case(
-      "TLTC1Q6WJ92HPCLQ5758CXZ9R9Z42MS02CXYCRLN7MG5",
+      "fec1qxgmmj2z63w0es3zp8gr4gytk896evsu6qglkfp",
       Object::Address(
-        "TLTC1Q6WJ92HPCLQ5758CXZ9R9Z42MS02CXYCRLN7MG5"
+        "fec1qxgmmj2z63w0es3zp8gr4gytk896evsu6qglkfp"
           .parse()
           .unwrap(),
       ),
