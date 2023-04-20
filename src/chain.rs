@@ -42,8 +42,8 @@ impl Chain {
     match self {
       Self::Mainnet => 0,
       Self::Regtest => 0,
-      Self::Signet => 112402,
-      Self::Testnet => 2669127,
+      Self::Signet => 0,
+      Self::Testnet => 0,
     }
   }
 
